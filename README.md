@@ -9,7 +9,7 @@ I am a **Cybersecurity Enthusiast and Penetration Tester** focused on identifyin
 - Security Monitoring & Threat Detection
 - Threat Intelligence & Log Analysis
 
-⚡ I also build practical cybersecurity and automation projects using Python to streamline security workflows and enhance threat intelligence. My featured tools include **Decod3X** (a smart data triage engine) and **CORTEX-IP_intel**.
+⚡ I also build practical cybersecurity and automation projects using Python to streamline security workflows and enhance threat intelligence. My featured tools include **Decod3X** (a smart data triage engine) and **CORTEX-IP_intel**(for automated threat intelligence) and **linpriv-map** (a clean, offline Linux privilege escalation mapper)..
 
 💻 I continuously work on improving my skills in penetration testing, security analysis, and scripting while managing my BCA studies at IGNOU. I will also be continuously uploading my detailed notes related to CEH, WAPT, NPT, SOC Operations and many other topics and concepts related to cybersecurity to my **`Cybersecurity-Notes`** repository. Reach me at: [rohitk86060@gmail.com](mailto:rohitk86060@gmail.com)
 
